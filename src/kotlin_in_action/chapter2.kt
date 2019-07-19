@@ -1,3 +1,5 @@
+package kotlin_in_action
+
 fun main(args: Array<String>) {
     val maxNumber = max(2, 5)
     println(maxNumber)
